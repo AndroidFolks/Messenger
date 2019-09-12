@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="receiver_name">Received Message</string>
+    <string name="btn_name">Send Message</string>
+</resources>
